@@ -1,0 +1,4 @@
+__pycache__/
+pre_img/
+train_img/
+*.pyc
